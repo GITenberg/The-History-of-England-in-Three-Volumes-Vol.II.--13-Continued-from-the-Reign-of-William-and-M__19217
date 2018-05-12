@@ -1,0 +1,35 @@
+_repo: The-History-of-England-in-Three-Volumes-Vol.II.--13-Continued-from-the-Reign-of-William-and-M__19217
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19217-h/images2/cover.jpg
+creator:
+  author:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollet, T. (Tobias)
+    - Smollett, Tobias George
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- George I, 1714-1727'
+- !lcsh 'Great Britain -- History -- George II, 1727-1760'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Anne, 1702-1714'
+- !lcsh 'Great Britain -- History -- William and Mary, 1689-1702'
+title: "The History of England in Three Volumes, Vol.II.\r\nContinued from the Reign\
+  \ of William and Mary to the Death of George II."
+url: http://www.gutenberg.org/ebooks/19217
